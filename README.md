@@ -12,3 +12,5 @@ https://disantoz.github.io/buddyrun/
 
 ## Contribution
 Made with ❤️ by DISANTOZ
+
+### ©️2022  Buddy Run, Inc 
