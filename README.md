@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# buddyrun
 
 ## Purpose
 
@@ -17,4 +17,4 @@ https://disantoz.github.io/buddyrun/
 
 Made with ❤️ by DISANTOZ
 
-### ©️2022  Buddy Run, Inc 
+### ©️2022 Buddy Run, Inc
